@@ -1,0 +1,10 @@
+export default function S01RichTextBlock2Part13() {
+  return (
+    <strong>
+      ATTENTION! IF YOU DO NOT AGREE WITH ANY PROVISIONS OF THIS AGREEMENT, PLEASE DISCONTINUE THE ACCEPTANCE PROCESS (DO NOT PERFORM THE TARGETED ACTION THAT RECORDS A LEGALLY SIGNIFICANT ACT).
+      <br />
+      <br />
+      ‍
+    </strong>
+  );
+}

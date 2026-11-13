@@ -1,0 +1,11 @@
+
+.item {display: inline-block;}
+.list {display:block !important;}
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus
+{
+    outline: none;
+}
+.slick-slide, .slick-slide *{ outline: none !important; }

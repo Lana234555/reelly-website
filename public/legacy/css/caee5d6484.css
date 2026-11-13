@@ -1,0 +1,24 @@
+
+.agents-blog-slider-butoon {
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+.agents-blog-slider-butoon.active {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+#blog-slider .w-dyn-items {
+  display: flex !important;
+  grid-template-columns: unset !important;
+  gap: 24px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  transition: transform 0.5s cubic-bezier(0.25, 0.1, 0.25, 1);
+  will-change: transform;
+}
+#blog-slider .w-dyn-item {
+  flex-shrink: 0 !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
