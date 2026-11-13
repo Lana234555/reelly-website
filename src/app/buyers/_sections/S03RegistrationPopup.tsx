@@ -64,7 +64,7 @@ export default function S03RegistrationPopup() {
                     </div>
                   </div>
                 </div>
-                <img src="/cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17.png" loading="lazy" sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-500.png 500w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-800.png 800w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17.png 1232w" alt="" className="image-14" />
+                <img src="/cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17.webp" loading="lazy" sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-500.png 500w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-800.png 800w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/62cabba361280960e3d2d79a_MacBook-Pro-17.webp 1232w" alt="" className="image-14" />
               </div>
               <div id="w-node-d95f5aea-5ed8-1ee4-8dbe-92a66ccb754a-c0a61e78" className="form-registration-wrapper pop-up">
                 <div className="login-link">

@@ -1,7 +1,7 @@
 export default function S01CareersSectionPart02Part07Part02Part09() {
   return (
     <div id="w-node-_85dec91c-2917-0e35-0167-ed884558b5cd-7d423b64" className="leadership-card">
-      <img src="/cdn/6297c98631a984c162542adb/682ca3c58acce552386d2672_Frame-11.png" loading="lazy" alt="" className="leadership-img borders" />
+      <img src="/cdn/6297c98631a984c162542adb/682ca3c58acce552386d2672_Frame-11.webp" loading="lazy" alt="" className="leadership-img borders" />
       <div className="leadership-info">
         <h3 className="leadership-name">
           Anna

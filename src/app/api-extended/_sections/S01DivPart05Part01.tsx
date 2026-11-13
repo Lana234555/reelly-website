@@ -103,7 +103,7 @@ export default function S01DivPart05Part01() {
               Tool for agents
             </a>
             <a href="/agency" className="menu_text">
-              Corporate packege
+              Corporate package
             </a>
             <a href="/api-extended" aria-current="page" className="menu_text w--current">
               API database Off Plan

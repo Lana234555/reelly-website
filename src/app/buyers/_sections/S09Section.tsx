@@ -20,7 +20,7 @@ export default function S09Section() {
             <div role="list" className="list w-dyn-items">
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled%20(8).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled%20(8)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled%20(8).png 770w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled-8-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled-8--p-500.webp 500w, /cdn/62a47d8c21acef8236283091/630881e02e34d82b0dfc7ce6_Untitled-8-.webp 770w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -58,7 +58,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled%20(7).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled%20(7)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled%20(7).png 670w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled-7-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled-7--p-500.webp 500w, /cdn/62a47d8c21acef8236283091/6308819956a216b384c9b011_Untitled-7-.webp 670w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -96,7 +96,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled%20(6).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled%20(6)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled%20(6)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled%20(6).png 860w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled-6-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled-6--p-500.png 500w, /cdn/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled-6--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/6308816ce33a10699d5ceb06_Untitled-6-.webp 860w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -134,7 +134,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled%20(5).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled%20(5)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled%20(5).png 670w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled-5-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled-5--p-500.webp 500w, /cdn/62a47d8c21acef8236283091/63088091a963c8adddc82993_Untitled-5-.webp 670w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -172,7 +172,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled%20(4).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled%20(4)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled%20(4).png 580w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled-4-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled-4--p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087f6d2e34d81ae0fc6a5f_Untitled-4-.webp 580w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -210,7 +210,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled%20(3).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled%20(3)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled%20(3).png 640w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled-3-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled-3--p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087f347f9553f58ac5319d_Untitled-3-.webp 640w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -248,7 +248,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2)-p-1600.png 1600w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled%20(2).png 1620w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2--p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2--p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/63087eab57d0c3893c345585_Untitled-2-.webp 1620w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -286,7 +286,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1).png" sizes="(max-width: 479px) 100vw, 430px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1)-p-1600.png 1600w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled%20(1).png 1739w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1-.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1--p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1--p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/63087e5b51e4de58f8015f5b_Untitled-1-.webp 1739w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -324,7 +324,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled.png" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled-p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled-p-800.png 800w, /cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled.png 860w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled-p-500.png 500w, /cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled-p-800.webp 800w, /cdn/62a47d8c21acef8236283091/63087e16671f3b37058addf8_Untitled.webp 860w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -400,7 +400,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-1080.jpeg 1080w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832.jpeg 1620w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/62ff123daf0efc49f85d613e_BENOY_DubaiHarbour_CGI12_02-1-1620x832.webp 1620w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -476,7 +476,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-1080.jpeg 1080w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-1600.jpeg 1600w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3.jpeg 2560w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3-p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/62ff1c51b4ec8e1418cfd16f_the_paragon_by_igo_business_bay_dubai_photos_3.jpeg 2560w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -514,7 +514,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-1080.jpeg 1080w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3.jpeg 1500w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/62ff144a28fc3c9f7a36be8d_3.jpeg 1500w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">
@@ -590,7 +590,7 @@ export default function S09Section() {
               </div>
               <div role="listitem" className="item w-dyn-item">
                 <a href="#" className="link-wrapper w-inline-block">
-                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM.jpeg" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-1080.jpeg 1080w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM.jpeg 1280w" className="property-image" />
+                  <img alt="" loading="lazy" width="430" src="/cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM.webp" sizes="(max-width: 479px) 100vw, 430px" srcSet="/cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-500.jpeg 500w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-800.jpeg 800w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM-p-1080.jpeg 1080w, /cdn/62a47d8c21acef8236283091/62ff1fda100f8eaf62d10067_WhatsApp-Image-2022-03-22-at-8.16.25-PM.webp 1280w" className="property-image" />
                 </a>
                 <div className="property-card-wrapper">
                   <h4 className="h4 no-sizing">

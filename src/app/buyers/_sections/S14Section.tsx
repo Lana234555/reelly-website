@@ -29,7 +29,7 @@ export default function S14Section() {
             </div>
           </div>
           <div id="w-node-f3634e33-48e2-b605-44e9-1fa439555562-c0a61e78" className="_2col-grid-right">
-            <img src="/cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture.png" loading="lazy" width="647" sizes="(max-width: 767px) 100vw, 647px" alt="" srcSet="/cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-500.png 500w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-800.png 800w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture.png 1301w" />
+            <img src="/cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture.webp" loading="lazy" width="647" sizes="(max-width: 767px) 100vw, 647px" alt="" srcSet="/cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-500.png 500w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-800.webp 800w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/630131f4a3b25d3d6022562b_62cd333671fbb2f36cca9210_selection-picture.webp 1301w" />
           </div>
         </div>
       </div>

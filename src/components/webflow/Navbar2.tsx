@@ -225,7 +225,7 @@ export default function Navbar2() {
                                 </svg>
                               </div>
                               <div className="title---brix">
-                                Corporate packege
+                                Corporate package
                               </div>
                             </a>
                           </div>
@@ -346,7 +346,7 @@ export default function Navbar2() {
                             </a>
                           </div>
                           <div className="dropdown-nav-pages-wrapper-v3---brix">
-                            <a href="/colsulting" className="dropdown-button-v3---brix w-inline-block">
+                            <a href="/consulting" className="dropdown-button-v3---brix w-inline-block">
                               <div className="icon-embed-xsmall-4 w-embed">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" preserveAspectRatio="xMidYMid meet" aria-hidden="true" role="img">
                                   {" "}

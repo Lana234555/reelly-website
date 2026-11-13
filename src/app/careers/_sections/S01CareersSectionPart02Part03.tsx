@@ -9,7 +9,7 @@ export default function S01CareersSectionPart02Part03() {
         </h2>
         <div className="hr-info-container">
           <div className="hr-avatar-info-block">
-            <img src="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.png" loading="lazy" alt="" className="hr-avatar" />
+            <img src="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.webp" loading="lazy" alt="" className="hr-avatar" />
             <div className="hr-info-block">
               <h3 className="hr-name">
                 {"Sona "}

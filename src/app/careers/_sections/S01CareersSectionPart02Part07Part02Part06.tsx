@@ -1,7 +1,7 @@
 export default function S01CareersSectionPart02Part07Part02Part06() {
   return (
     <div id="w-node-c063a54b-ce4d-85b0-3339-924bc47fd3f3-7d423b64" className="leadership-card">
-      <img src="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.png" loading="lazy" sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-500.png 500w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-800.png 800w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.png 1600w" alt="" className="leadership-img" />
+      <img src="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.webp" loading="lazy" sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-500.png 500w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-800.webp 800w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/698dfabbc11837e13bde439e_IMG_0582-1.webp 1600w" alt="" className="leadership-img" />
       <div className="leadership-info">
         <h3 className="leadership-name">
           {"Sona "}

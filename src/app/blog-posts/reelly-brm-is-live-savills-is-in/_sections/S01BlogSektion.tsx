@@ -28,7 +28,7 @@ export default function S01BlogSektion() {
               </p>
             </div>
           </div>
-          <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg" loading="lazy" id="w-node-b256a4d2-9b0f-df5e-ac3e-4c54db29b678-54a61e8f" alt="" sizes="(max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg 992w" className="blog-img" />
+          <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp" loading="lazy" id="w-node-b256a4d2-9b0f-df5e-ac3e-4c54db29b678-54a61e8f" alt="" sizes="(max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp 992w" className="blog-img" />
         </div>
       </div>
     </div>

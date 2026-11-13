@@ -88,7 +88,7 @@ export default function S01BodyAgentsPart06() {
                 </div>
                 <div fs-slider-element="slide" className="agents-leaders-card">
                   <div className="ambassador-coach-card-6 _1">
-                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-201000002340-p-500.png 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-1000002340.png 747w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-1000002340.png" loading="lazy" className="ambassador-coach-img" />
+                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-201000002340-p-500.webp 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-1000002340.webp 747w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47aea_Group-1000002340.webp" loading="lazy" className="ambassador-coach-img" />
                     <div className="ambassador-coach-info-block-5 _1">
                       <div className="div-block-149">
                         <div className="text-block-114">
@@ -120,7 +120,7 @@ export default function S01BodyAgentsPart06() {
                 </div>
                 <div fs-slider-element="slide" className="agents-leaders-card">
                   <div className="ambassador-coach-card-6 _1">
-                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-201000002338-p-500.png 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-1000002338.png 746w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-1000002338.png" loading="lazy" className="ambassador-coach-img" />
+                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-201000002338-p-500.webp 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-1000002338.webp 746w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a90_Group-1000002338.webp" loading="lazy" className="ambassador-coach-img" />
                     <div className="ambassador-coach-info-block-5 _1">
                       <div className="div-block-149">
                         <div className="text-block-114">
@@ -184,7 +184,7 @@ export default function S01BodyAgentsPart06() {
                 </div>
                 <div fs-slider-element="slide" className="agents-leaders-card">
                   <div className="ambassador-coach-card-6 _1">
-                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-201000002339-p-500.png 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-1000002339.png 747w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-1000002339.png" loading="lazy" className="ambassador-coach-img" />
+                    <img sizes="(max-width: 479px) 52vw, (max-width: 767px) 36vw, (max-width: 991px) 35vw, 346px" srcSet="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-201000002339-p-500.webp 500w, /cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-1000002339.webp 747w" alt="" src="/cdn/6297c98631a984c162542adb/67422503ae78be92c1b47a95_Group-1000002339.webp" loading="lazy" className="ambassador-coach-img" />
                     <div className="ambassador-coach-info-block-5 _1">
                       <div className="div-block-149">
                         <div className="text-block-114">

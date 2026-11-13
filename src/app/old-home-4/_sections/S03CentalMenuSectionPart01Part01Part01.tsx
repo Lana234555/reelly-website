@@ -4,7 +4,7 @@ export default function S03CentalMenuSectionPart01Part01Part01() {
       <div className="w-slider-mask">
         <div className="w-slide">
           <a href="https://www.reelly.ai/api" target="_blank" className="slider-baner-link-3 w-inline-block">
-            <img width="790" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 790px" alt="" src="/cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg.jpg" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-1080.jpg 1080w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-1600.jpg 1600w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg.jpg 2000w" className="slider-w-100" />
+            <img width="790" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 790px" alt="" src="/cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg.webp" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-1080.jpg 1080w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg-p-1600.webp 1600w, /cdn/6297c98631a984c162542adb/68b9976688a23d4337737cea_Baner-jpeg.webp 2000w" className="slider-w-100" />
           </a>
         </div>
         <div className="w-slide">

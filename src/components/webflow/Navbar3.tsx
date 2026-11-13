@@ -78,20 +78,6 @@ export default function Navbar3() {
                             </a>
                           </div>
                           <div className="dropdown-nav-pages-wrapper-v3---brix">
-                            <a href="/careers" className="dropdown-button-v3---brix w-inline-block">
-                              <div className="code-embed-27 w-embed">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14" fill="none">
-                                  {" "}
-                                  <path d="M7.33171 7.33171H7.33837M9.99837 3.33171V1.99837C9.99837 1.64475 9.8579 1.30561 9.60785 1.05556C9.3578 0.805515 9.01866 0.665039 8.66504 0.665039H5.99837C5.64475 0.665039 5.30561 0.805515 5.05556 1.05556C4.80551 1.30561 4.66504 1.64475 4.66504 1.99837V3.33171M13.9984 7.99837C12.0202 9.30436 9.70207 10.0006 7.33171 10.0006C4.96134 10.0006 2.64318 9.30436 0.665039 7.99837M1.99837 3.33171H12.665C13.4014 3.33171 13.9984 3.92866 13.9984 4.66504V11.3317C13.9984 12.0681 13.4014 12.665 12.665 12.665H1.99837C1.26199 12.665 0.665039 12.0681 0.665039 11.3317V4.66504C0.665039 3.92866 1.26199 3.33171 1.99837 3.33171Z" stroke="currentcolor" strokeWidth="1.33" strokeLinecap="round" strokeLinejoin="round"></path>
-                                  {" "}
-                                </svg>
-                              </div>
-                              <div className="title---brix">
-                                Career
-                              </div>
-                            </a>
-                          </div>
-                          <div className="dropdown-nav-pages-wrapper-v3---brix">
                             <a href="/blog" aria-current="page" className="dropdown-button-v3---brix w-inline-block w--current">
                               <div className="code-embed-27 w-embed">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -189,7 +175,7 @@ export default function Navbar3() {
                                 </svg>
                               </div>
                               <div className="title---brix">
-                                Corporate packege
+                                Corporate package
                               </div>
                             </a>
                           </div>

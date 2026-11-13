@@ -1,4 +1,108 @@
-/* Tailwind without its preflight reset, so the original Webflow styles stay intact. */
+/* Tailwind without its preflight reset, so the original Webflow styles stay intact.
+   Utilities are marked !important so they win over webflow.css element styles
+   (h1, a, p…), which are not in a cascade layer. */
 @layer theme, base, components, utilities;
 @import "tailwindcss/theme.css" layer(theme);
-@import "tailwindcss/utilities.css" layer(utilities);
+@import "tailwindcss/utilities.css" layer(utilities) important;
+
+/* ---------------------------------------------------------------
+   UX overrides on top of webflow.css.
+   Selectors start with `html body` so they win over the Webflow stylesheet.
+   --------------------------------------------------------------- */
+
+/* Smoother hover transitions everywhere */
+html body a,
+html body button,
+html body .w-button {
+  transition-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Blog: highlight the article you're pointing at */
+html body .blog-articles-block {
+  margin-left: -12px;
+  margin-right: -12px;
+  padding: 16px 12px 12px;
+  border-radius: 12px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+html body .blog-articles-block:hover,
+html body .blog-articles-block:focus-visible {
+  background-color: rgba(204, 254, 58, 0.14);
+  transform: translateX(4px);
+}
+html body .blog-articles-img,
+html body .blog-news-img {
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.5s ease;
+}
+html body .blog-articles-block:hover .blog-articles-img {
+  transform: scale(1.04);
+}
+html body .blog-news-card {
+  display: block;
+  border-radius: 20px;
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+html body .blog-news-card:hover {
+  transform: translateY(-4px);
+}
+html body .blog-news-card:hover .blog-news-img {
+  box-shadow: 0 18px 40px -18px rgba(0, 0, 0, 0.45);
+}
+
+/* API page: Prev / Next buttons need a visible hover + focus state */
+html body .fs-slider-card_button-2 {
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+html body .fs-slider-card_button-2:hover,
+html body .fs-slider-card_button-2:focus-visible {
+  background-color: #000;
+  color: #ccfe3a;
+  border-color: #ccfe3a;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px -10px rgba(0, 0, 0, 0.5);
+}
+html body .fs-slider-card_button-2:active {
+  transform: translateY(0);
+}
+html body .fs-slider-card_button-2.is-list-start,
+html body .fs-slider-card_button-2.is-list-end,
+html body .fs-slider-card_button-2[disabled] {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+/* /agency: endless, slow logo carousel (see src/components/agency/AgencyMarquee.tsx) */
+html body .agency-marquee {
+  --marquee-duration: 70s;
+}
+html body .agency-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: agency-marquee var(--marquee-duration) linear infinite;
+}
+html body .agency-marquee-track .agency-grid-2 {
+  overflow: visible;
+  max-width: none;
+  width: max-content;
+  padding-right: 40px;
+}
+html body .agency-marquee:hover .agency-marquee-track {
+  animation-play-state: paused;
+}
+@keyframes agency-marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html body .agency-marquee-track {
+    animation-duration: 240s;
+  }
+}
+
+/* /agency-leaders: breathing room between slider photos and their Prev/Next buttons */
+html body .page-agency-leaders [fs-slider-element="navigation"] {
+  margin-top: 10px;
+}

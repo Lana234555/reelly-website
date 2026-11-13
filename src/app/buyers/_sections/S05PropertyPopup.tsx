@@ -11,7 +11,7 @@ export default function S05PropertyPopup() {
           <div className="modal-content-w">
             <div className="w-layout-grid network-top-grid pop-ups-form-1">
               <div id="w-node-b72a9649-2562-e088-40e2-6a9d7294a413-c0a61e78" className="gradient-grid pop-up agent red">
-                <img src="/cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484.png" loading="lazy" width="760" sizes="(max-width: 767px) 100vw, 760px" alt="" srcSet="/cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-500.png 500w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-800.png 800w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484.png 1520w" className="image-23" />
+                <img src="/cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484.webp" loading="lazy" width="760" sizes="(max-width: 767px) 100vw, 760px" alt="" srcSet="/cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-500.png 500w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-800.webp 800w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/63013378a65dd9230205027b_Group-1484.webp 1520w" className="image-23" />
               </div>
               <div id="w-node-b72a9649-2562-e088-40e2-6a9d7294a414-c0a61e78" className="form-registration-wrapper pop-up agent red">
                 <div className="form-wrapper">

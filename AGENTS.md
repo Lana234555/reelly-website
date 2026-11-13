@@ -20,6 +20,12 @@ Structure
 - Images, fonts and videos from the Webflow CDN are in `public/cdn/`.
 - `src/components/LegacyWebflow.tsx` runs the original Webflow runtime (interactions, sliders, dropdowns, forms) and the site's integrations: GTM, Mixpanel, Meta Pixel, Wized, Finsweet, Weglot. Each page lists its scripts in the `page.scripts` array; custom code from Webflow is in `public/legacy/js/inline-*.js`.
 
+Rebuilt (clean React) parts
+- `/consulting` and `/white-label`: `src/components/services/` (content is plain data at the top of each file; shared UI in `ui.tsx`). These used to be Lovable iframes. `/colsulting` redirects to `/consulting`.
+- `/agency` company carousel: `src/components/agency/AgencyMarquee.tsx` (speed: `--marquee-duration` in `globals.css`).
+- Site-wide UX overrides of webflow.css (hover states, blog highlight, slider buttons) are at the bottom of `src/app/globals.css`; behaviour fixes (closing dropdowns, loader safety net) in `src/lib/uxEnhancements.ts`.
+- Tailwind utilities are `!important` so they beat webflow.css element styles.
+
 Migration rules
 - Keep class names when editing Webflow markup; webflow.css and the interactions depend on them.
 - When a section is rebuilt as a clean React component, remove the scripts it no longer needs from that page's `scripts` list.

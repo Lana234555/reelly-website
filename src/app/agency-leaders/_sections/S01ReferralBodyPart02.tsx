@@ -63,7 +63,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Emad
@@ -141,7 +141,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Saad
@@ -189,7 +189,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Fahad
@@ -237,7 +237,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image-p-500.png 500w, /cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image.png 747w" alt="" src="/cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image.png" loading="lazy" className="ambassador-coach-img" />
+                <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image-p-500.webp 500w, /cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image.webp 747w" alt="" src="/cdn/6297c98631a984c162542adb/69735135b0c25bdbbde7aee7_image.webp" loading="lazy" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     {"Dr. Anand "}
@@ -262,7 +262,7 @@ export default function S01ReferralBodyPart02() {
           <div className="div-block-139 _2">
             <div className="ambassadors-cards-block _1 _3">
               <div className="ambassador-coach-card-5">
-                <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-500.png 500w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-800.png 800w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.png 1360w" alt="" src="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.png" loading="lazy" className="ambassador-coach-img" />
+                <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-500.webp 500w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-800.webp 800w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.webp 1360w" alt="" src="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.webp" loading="lazy" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     <strong>
@@ -312,7 +312,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Emad
@@ -344,7 +344,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Saad
@@ -422,7 +422,7 @@ export default function S01ReferralBodyPart02() {
                 </div>
               </div>
               <div className="ambassador-coach-card-5">
-                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.png" alt="" className="ambassador-coach-img" />
+                <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.webp" alt="" className="ambassador-coach-img" />
                 <div className="ambassador-coach-info-block-5">
                   <div>
                     Fahad
@@ -712,7 +712,7 @@ export default function S01ReferralBodyPart02() {
             <div fs-slider-element="list" className="fs-slider-16_list">
               <div fs-slider-element="slide" className="fs-slider-16_slide">
                 <div className="ambassador-coach-card-6">
-                  <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-500.png 500w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-800.png 800w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.png 1360w" alt="" src="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.png" loading="lazy" className="ambassador-coach-img" />
+                  <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-500.webp 500w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-800.webp 800w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.webp 1360w" alt="" src="/cdn/6297c98631a984c162542adb/6abace3687b7a87c3724c1a6_Group-1000002351.webp" loading="lazy" className="ambassador-coach-img" />
                   <div className="ambassador-coach-info-block-5">
                     <div>
                       <strong>
@@ -768,7 +768,7 @@ export default function S01ReferralBodyPart02() {
               </div>
               <div fs-slider-element="slide" className="fs-slider-16_slide">
                 <div className="ambassador-coach-card-6">
-                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.png" alt="" className="ambassador-coach-img" />
+                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4b5b10492313c7adf9_Group-1000002340.webp" alt="" className="ambassador-coach-img" />
                   <div className="ambassador-coach-info-block-5">
                     <div>
                       Emad
@@ -858,7 +858,7 @@ export default function S01ReferralBodyPart02() {
               </div>
               <div fs-slider-element="slide" className="fs-slider-16_slide">
                 <div className="ambassador-coach-card-6">
-                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.png" alt="" className="ambassador-coach-img" />
+                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4a6c5dda52abef443b_Group-1000002338.webp" alt="" className="ambassador-coach-img" />
                   <div className="ambassador-coach-info-block-5">
                     <div>
                       Saad
@@ -912,7 +912,7 @@ export default function S01ReferralBodyPart02() {
               </div>
               <div fs-slider-element="slide" className="fs-slider-16_slide">
                 <div className="ambassador-coach-card-6">
-                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.png" alt="" className="ambassador-coach-img" />
+                  <img loading="lazy" src="/cdn/66ede445736b4d27f2acfb4c/67210b4ac8d750cabbec7782_Group-1000002339.webp" alt="" className="ambassador-coach-img" />
                   <div className="ambassador-coach-info-block-5">
                     <div>
                       Fahad

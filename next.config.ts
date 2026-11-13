@@ -12,8 +12,8 @@ const nextConfig: NextConfig = {
   // Keep old Webflow URLs working (SEO).
   async redirects() {
     return [
+      // Old misspelled Webflow URL
       { source: "/colsulting", destination: "/consulting", permanent: true },
-      { source: "/old-home-4", destination: "/", permanent: true },
     ];
   },
 };

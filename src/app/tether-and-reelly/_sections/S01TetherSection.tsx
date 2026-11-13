@@ -3,7 +3,7 @@ export default function S01TetherSection() {
     <section className="tether-section black-color">
       <div className="w-layout-blockcontainer tether-container w-container">
         <div className="tether-block">
-          <img src="/cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration.png" loading="lazy" width="1161" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" alt="" srcSet="/cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-500.png 500w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-800.png 800w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration.png 1504w" className="image-124" />
+          <img src="/cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration.webp" loading="lazy" width="1161" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" alt="" srcSet="/cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-500.png 500w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-800.png 800w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/6788cfd64337cdff7d6fe623_colaboration.webp 1504w" className="image-124" />
           <div className="w-layout-grid tether-grid">
             <h1 className="tether-h1">
               The future of real estate through blockchain and stablecoins

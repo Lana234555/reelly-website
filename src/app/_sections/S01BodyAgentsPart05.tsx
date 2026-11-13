@@ -91,7 +91,7 @@ export default function S01BodyAgentsPart05() {
                       </div>
                       <div className="agents-slider-slide">
                         <div className="agents-slider-media">
-                          <img src="/cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798.avif" loading="lazy" sizes="90vw" srcSet="/cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-500.png 500w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-800.png 800w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-1600.png 1600w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798.avif 4164w" alt="" className="agents-tools-card-img" />
+                          <img src="/cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798.avif" loading="lazy" sizes="90vw" srcSet="/cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-500.png 500w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-800.png 800w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798-p-1600.webp 1600w, /cdn/6297c98631a984c162542adb/6999d58f5dc389a21fd5327a_Group-1618868798.avif 4164w" alt="" className="agents-tools-card-img" />
                         </div>
                       </div>
                       <div className="agents-slider-slide">
