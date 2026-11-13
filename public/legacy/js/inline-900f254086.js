@@ -2,6 +2,7 @@
 //Animation 2
   // Wrap every letter in a span
 var textWrapper = document.querySelector('.animation2');
+if (textWrapper) {
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 
 anime.timeline({loop: false})
@@ -18,4 +19,4 @@ anime.timeline({loop: false})
     easing: "easeOutExpo",
     delay: 1000
   });
-  
+  }

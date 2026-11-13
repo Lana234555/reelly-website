@@ -1,7 +1,7 @@
 export default function S01DivPart02() {
   return (
     <section className="ai-section-2">
-      <img sizes="(max-width: 2880px) 100vw, 2880px" srcSet="/cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-500.png 500w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-800.png 800w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-1600.png 1600w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-2000.png 2000w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-2600.png 2600w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group.png 2880w" alt="" src="/cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group.png" loading="lazy" className="image-128" />
+      <img sizes="(max-width: 2880px) 100vw, 2880px" srcSet="/cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-500.png 500w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-800.png 800w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-1600.png 1600w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-2000.png 2000w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group-p-2600.png 2600w, /cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group.webp 2880w" alt="" src="/cdn/6297c98631a984c162542adb/682e031a282a7d7954196c05_Mask-group.webp" loading="lazy" className="image-128" />
       <div className="w-layout-blockcontainer ai-container w-container">
         <div className="offer-cards-block">
           <div className="offer-card">

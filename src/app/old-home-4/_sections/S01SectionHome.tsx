@@ -72,7 +72,7 @@ export default function S01SectionHome() {
             </div>
           </div>
           <div id="w-node-efb0c80d-218f-e012-b5c7-5ec576673177-8f5ef540" className="imgs-block">
-            <img src="/cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600-.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-500.png 500w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-800.png 800w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-1080.png 1080w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600-.png 1600w" alt="" className="phone-img" />
+            <img src="/cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600-.webp" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-500.png 500w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-800.png 800w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600--p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/68de5cf145738799ec2a0f48_600-.webp 1600w" alt="" className="phone-img" />
           </div>
         </div>
       </div>

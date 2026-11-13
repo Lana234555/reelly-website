@@ -337,7 +337,7 @@ export default function S01ProptechBlockPart01() {
                 <br />
                 property technology
               </h1>
-              <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-201834-p-500.png 500w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-201834-p-800.png 800w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-1834.png 1024w" alt="" src="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-1834.png" loading="lazy" className="image-73" />
+              <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-201834-p-500.png 500w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-201834-p-800.webp 800w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-1834.webp 1024w" alt="" src="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e746_Group-1834.webp" loading="lazy" className="image-73" />
               <a href="#" className="button-green-2 hidden w-button">
                 Get opportunity to invest
               </a>
@@ -655,7 +655,7 @@ export default function S01ProptechBlockPart01() {
           <div className="h2-whire">
             To help attract $100 billion in investments for our partner developers in the world's top 10 megacities
           </div>
-          <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-1080.jpg 1080w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-1600.jpg 1600w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170.jpg 1920w" alt="" src="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170.jpg" loading="lazy" className="image-118" />
+          <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-1080.jpg 1080w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170-p-1600.webp 1600w, /cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170.webp 1920w" alt="" src="/cdn/6297c98631a984c162542adb/676e6d8b8d148873fc27e76b_170.webp" loading="lazy" className="image-118" />
           <div className="tag-txt-block whire">
             <div>
               World cases

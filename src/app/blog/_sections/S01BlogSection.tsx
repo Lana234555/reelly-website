@@ -47,7 +47,7 @@ export default function S01BlogSection() {
               <div role="list" className="w-dyn-items">
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-brm-is-live-savills-is-in" className="blog-news-card w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg 992w" className="blog-news-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp 992w" className="blog-news-img" />
                     <div className="blog-news-card-info-block">
                       <div className="blog-articles-category">
                         Developers
@@ -65,7 +65,7 @@ export default function S01BlogSection() {
               <div role="list" className="w-dyn-items">
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-brm-is-live-savills-is-in" className="blog-articles-block _1 w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.jpg 992w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-500.jpg 500w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229-p-800.jpg 800w, /cdn/62a47d8c21acef8236283091/6a630961b04755cb676f9cfa_image-229.webp 992w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Developers
@@ -78,7 +78,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/a-tool-that-allows" className="blog-articles-block _1 w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News.png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-500.png 500w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-800.png 800w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-1080.png 1080w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-1600.png 1600w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-2000.png 2000w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News.png 2032w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-500.png 500w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-800.png 800w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News-p-2000.webp 2000w, /cdn/62a47d8c21acef8236283091/69ce601144eb47268950c139_3.0-Banner-News.webp 2032w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Updated
@@ -91,7 +91,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/dps-dubais-largest-property-show-is-opening" className="blog-articles-block _1 w-inline-block">
-                    <img src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2).png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-1600.png 1600w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2).png 2032w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2-.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-500.png 500w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2-.webp 2032w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Developers
@@ -104,7 +104,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-x-ohana-strategic-partnership" className="blog-articles-block _1 w-inline-block">
-                    <img src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2).png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2)-p-1600.png 1600w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame%201618868872%20(2).png 2032w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2-.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2--p-500.png 500w, /cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2--p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/69c3e25bc2606c7911c423c8_Frame-1618868872-2-.webp 2032w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Partnership
@@ -117,7 +117,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-x-easywill-official-partnership" className="blog-articles-block _1 w-inline-block">
-                    <img src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame%201618868870%20(2).png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame%201618868870%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame%201618868870%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame%201618868870%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame%201618868870%20(2).png 2032w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame-1618868870-2-.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame-1618868870-2--p-500.png 500w, /cdn/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame-1618868870-2--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame-1618868870-2--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/69c3e2856ee29f1a8ce458df_Frame-1618868870-2-.webp 2032w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Partnership
@@ -130,7 +130,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-2-5-smarter-faster-more-connected" className="blog-articles-block _1 w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-1080.png 1080w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.png 1524w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-800.webp 800w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.webp 1524w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Updated
@@ -169,7 +169,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/founder-of-the-year---middle-east-finalists-announced" className="blog-articles-block _1 w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503.png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-1080.png 1080w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503.png 1524w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/699fb5b795bd06dd5bff1c3f_Rectangle-144503.webp 1524w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Awards
@@ -182,7 +182,7 @@ export default function S01BlogSection() {
                 </div>
                 <div role="listitem" className="w-dyn-item">
                   <a href="/blog-posts/reelly-ai-receives-prestigious-property-finder-award" className="blog-articles-block _1 w-inline-block">
-                    <img src="/cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506.png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506.png 1524w" className="blog-articles-img" />
+                    <img src="/cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fbb3de27fca046f04f2d3_Rectangle-144506.webp 1524w" className="blog-articles-img" />
                     <div>
                       <div className="blog-articles-category">
                         Awards
@@ -314,7 +314,7 @@ export default function S01BlogSection() {
                 <div role="list" className="w-dyn-items">
                   <div role="listitem" className="w-dyn-item">
                     <a href="/blog-posts/dps-dubais-largest-property-show-is-opening" className="blog-news-card w-inline-block">
-                      <img src="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2).png" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2)-p-1600.png 1600w, https://cdn.prod.website-files.com/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame%201618868873%20(2).png 2032w" className="blog-news-img" />
+                      <img src="/cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2-.webp" loading="lazy" alt="" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcSet="/cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-500.png 500w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-800.webp 800w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2--p-1600.webp 1600w, /cdn/62a47d8c21acef8236283091/69c3e1c178e23d6f608b7440_Frame-1618868873-2-.webp 2032w" className="blog-news-img" />
                       <div className="blog-news-card-info-block _1">
                         <div className="blog-articles-category w-dyn-bind-empty"></div>
                         <h2 className="blog-h2-block">

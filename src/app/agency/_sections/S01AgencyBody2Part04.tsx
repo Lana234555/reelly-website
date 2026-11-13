@@ -3,7 +3,7 @@ export default function S01AgencyBody2Part04() {
     <section className="agency-section-2">
       <div className="w-layout-blockcontainer agency-container-2 w-container">
         <div className="w-layout-grid info-grid-2">
-          <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-500.png 500w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-800.png 800w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-1000006372.png 1494w" alt="" src="/cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-1000006372.png" loading="lazy" className="img-baner _2" />
+          <img sizes="100vw" srcSet="/cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-500.png 500w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-800.png 800w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-201000006372-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-1000006372.webp 1494w" alt="" src="/cdn/6297c98631a984c162542adb/67c53feca027a01c6cbdcfaf_Frame-1000006372.webp" loading="lazy" className="img-baner _2" />
           <div className="information-agency-block">
             <h2 className="agency-h2-2">
               Access &amp; Control

@@ -24,7 +24,7 @@ export default function S06Section() {
             </div>
           </div>
         </div>
-        <img src="/cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502.png" loading="lazy" width="636" sizes="(max-width: 767px) 100vw, 636px" alt="" srcSet="/cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-500.png 500w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-800.png 800w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502.png 1447w" className="image-62" />
+        <img src="/cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502.webp" loading="lazy" width="636" sizes="(max-width: 767px) 100vw, 636px" alt="" srcSet="/cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-500.png 500w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-800.png 800w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/632d9981edc19ea8922d1317_Group-1502.webp 1447w" className="image-62" />
       </div>
     </div>
   );

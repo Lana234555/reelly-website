@@ -103,7 +103,7 @@ export default function FooterPart01() {
               Tool for agents
             </a>
             <a href="/agency" className="menu_text">
-              Corporate packege
+              Corporate package
             </a>
             <a href="/api-extended" className="menu_text">
               API database Off Plan

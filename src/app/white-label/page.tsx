@@ -1,21 +1,16 @@
 import type { Metadata } from "next";
 import LegacyWebflow, { type LegacyPage } from "@/components/LegacyWebflow";
 import Navbar from "@/components/webflow/Navbar";
-import S01DivBlock155 from "./_sections/S01DivBlock155";
 import Footer from "@/components/webflow/Footer";
+import WhiteLabelPage from "@/components/services/WhiteLabelPage";
 
 export const metadata: Metadata = {
-  "title": "B2B Services for Real Estate Developers",
-  "openGraph": {
-    "title": "B2B Services for Real Estate Developers",
-    "type": "website"
-  },
-  "twitter": {
-    "card": "summary_large_image",
-    "title": "B2B Services for Real Estate Developers"
-  }
+  title: "White Label Broker Sales Infrastructure | Reelly",
+  description: "A dedicated broker ecosystem built around your existing CRM: admin panel, data layer, API, white-label platform, mobile app and BRM.",
+  openGraph: { title: "White Label Broker Sales Infrastructure | Reelly", description: "A dedicated broker ecosystem built around your existing CRM: admin panel, data layer, API, white-label platform, mobile app and BRM.", type: "website" },
 };
 
+// Navbar/footer still use the Webflow runtime (dropdowns, mobile menu) and site analytics.
 const page: LegacyPage = {
   "wfPage": "69ea3e0e9e76a2422088075a",
   "bodyClass": "",
@@ -75,11 +70,7 @@ const page: LegacyPage = {
       "src": "/legacy/js/finsweetcomponentsconfig-1.0.103.js"
     },
     {
-      "src": "/legacy/js/inline-e5a7135384.js",
-      "inline": true
-    },
-    {
-      "src": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6297c98631a984c162542adb"
+      "src": "/legacy/js/jquery-3.5.1.min.js"
     },
     {
       "src": "/legacy/js/webflow.schunk.36b8fb49256177c8.js"
@@ -93,10 +84,6 @@ const page: LegacyPage = {
     {
       "src": "/legacy/js/inline-a37b2cb214.js",
       "inline": true
-    },
-    {
-      "src": "/legacy/js/inline-8f03970e39.js",
-      "inline": true
     }
   ]
 };
@@ -105,7 +92,7 @@ export default function Page() {
   return (
     <div className={page.bodyClass}>
       <Navbar />
-      <S01DivBlock155 />
+      <WhiteLabelPage />
       <Footer />
       <LegacyWebflow {...page} />
     </div>

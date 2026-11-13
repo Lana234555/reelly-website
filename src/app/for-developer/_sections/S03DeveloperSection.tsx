@@ -15,7 +15,7 @@ export default function S03DeveloperSection() {
                 It provides agents with access to the latest market news, in-depth analysis of developers' projects, and tools to create branded client presentations in just one click.
               </p>
             </div>
-            <img src="/cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393.png" loading="lazy" id="w-node-_7c4ea9a9-2983-19fd-5ab4-566ac6a154fe-68f93ea8" sizes="100vw" alt="" srcSet="/cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-500.png 500w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-800.png 800w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393.png 1480w" className="image-121" />
+            <img src="/cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393.webp" loading="lazy" id="w-node-_7c4ea9a9-2983-19fd-5ab4-566ac6a154fe-68f93ea8" sizes="100vw" alt="" srcSet="/cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-500.png 500w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-800.png 800w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/67716c01270f258db9860188_Group-1000002393.webp 1480w" className="image-121" />
           </div>
         </div>
       </div>

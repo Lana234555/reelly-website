@@ -147,7 +147,7 @@ export default function S02MenuGeneralBlock() {
                 </a>
               </div>
               <a href="https://soft.reelly.io/secondary-listings" id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb727fa-8f5ef540" className="menu-card-link_block-2 w-inline-block">
-                <img loading="lazy" src="/cdn/63c5585ff31e74bfcf46a136/654d964b59e51126bdf3d51f_Frame-2112.png" alt="" className="img-card" />
+                <img loading="lazy" src="/cdn/63c5585ff31e74bfcf46a136/654d964b59e51126bdf3d51f_Frame-2112.webp" alt="" className="img-card" />
                 <div className="txt-link-block-2 _1">
                   <h2 className="h2-partner-card-2 block">
                     Secondary market
@@ -160,7 +160,7 @@ export default function S02MenuGeneralBlock() {
             </div>
             <div id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72801-8f5ef540" className="w-layout-grid project-agency-grid-2">
               <div className="menu-card-link_block-2">
-                <img loading="lazy" src="/cdn/63c5585ff31e74bfcf46a136/654de1637926e889eab3bb7e_Group-1814.png" alt="" className="img-card" />
+                <img loading="lazy" src="/cdn/63c5585ff31e74bfcf46a136/654de1637926e889eab3bb7e_Group-1814.webp" alt="" className="img-card" />
                 <a href="https://soft.reelly.io/pro" className="txt-link-block-2 w-inline-block">
                   <h2 className="h2-partner-card-2">
                     {"Get PRO "}
@@ -206,11 +206,11 @@ export default function S02MenuGeneralBlock() {
                   Coaching from real estate leaders from different markets
                 </div>
                 <div className="w-layout-grid speakers-icon-grid">
-                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb7282f-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d8874931836fb9726accd_-2023-11-02-22.04-1.png" className="speaker-img-2" />
+                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb7282f-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d8874931836fb9726accd_-2023-11-02-22.04-1.webp" className="speaker-img-2" />
                   <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72830-8f5ef540" loading="lazy" alt="" src="/cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f51_photo_2024-04-16_16-39-42-1.webp" className="speaker-img-2" />
                   <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72831-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d8876f6b5daa502cf94ef_Ellipse-415.png" className="speaker-img-2" />
-                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72832-8f5ef540" sizes="(max-width: 479px) 78px, (max-width: 767px) 23vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973.png" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973.png 510w" className="speaker-img-2" />
-                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72833-8f5ef540" sizes="(max-width: 479px) 78px, (max-width: 767px) 23vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974.png" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974.png 510w" className="speaker-img-2" />
+                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72832-8f5ef540" sizes="(max-width: 479px) 78px, (max-width: 767px) 23vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973.webp" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f22_IMG_3973.webp 510w" className="speaker-img-2" />
+                  <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72833-8f5ef540" sizes="(max-width: 479px) 78px, (max-width: 767px) 23vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974.webp" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a1a5f5e27c6fd48f05_IMG_3974.webp 510w" className="speaker-img-2" />
                   <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72834-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d88748cc9ffb305fc1b28_-2023-11-02-22.11-1.png" className="speaker-img-2" />
                   <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72835-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d8873bf2ecf07e110a553_-2023-11-02-22.09-1.png" className="speaker-img-2" />
                   <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72836-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d887602fcf1b9ca709e0c_Ellipse-413.png" className="speaker-img-2" />
@@ -230,7 +230,7 @@ export default function S02MenuGeneralBlock() {
                     The top 5 in the ranking by invitations for the period receive a prize.
                   </div>
                 </div>
-                <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb7285a-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d9c99fe72ac539af5ff5b_iPhone-13-Pro.png" className="image-95" />
+                <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb7285a-8f5ef540" loading="lazy" alt="" src="/cdn/63c5585ff31e74bfcf46a136/654d9c99fe72ac539af5ff5b_iPhone-13-Pro.webp" className="image-95" />
               </a>
             </div>
             <div id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb7285b-8f5ef540" className="w-layout-grid project-agency-grid-2">
@@ -246,7 +246,7 @@ export default function S02MenuGeneralBlock() {
                     to find the best place for work or hire agents.
                   </div>
                 </div>
-                <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72864-8f5ef540" sizes="(max-width: 479px) 137px, (max-width: 767px) 29vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-1978.png" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-800.png 800w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-1978.png 1424w" className="image-94" />
+                <img id="w-node-_397bb980-dcbd-1c5a-806c-4602cbb72864-8f5ef540" sizes="(max-width: 479px) 137px, (max-width: 767px) 29vw, (max-width: 991px) 170px, 223px" alt="" src="/cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-1978.webp" loading="lazy" srcSet="/cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-500.png 500w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-800.png 800w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-201978-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/666862a2a5f5e27c6fd48f6a_Frame-1978.webp 1424w" className="image-94" />
               </a>
             </div>
             <a href="https://soft.reelly.io/proptech-club" className="proptech-baner w-inline-block">

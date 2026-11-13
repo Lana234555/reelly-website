@@ -247,7 +247,7 @@ export default function S02TetherSection() {
                 </div>
               </div>
             </div>
-            <img src="/cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray.jpg" loading="lazy" id="w-node-_6052643d-faa8-16e0-3248-9f4d5d061939-48448338" sizes="100vw" alt="" srcSet="/cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray.jpg 1024w" />
+            <img src="/cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray.webp" loading="lazy" id="w-node-_6052643d-faa8-16e0-3248-9f4d5d061939-48448338" sizes="100vw" alt="" srcSet="/cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray-p-500.jpg 500w, /cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray-p-800.jpg 800w, /cdn/6297c98631a984c162542adb/6788cfecfb89b5cfbd284edd_new-screens-gray.webp 1024w" />
           </div>
         </div>
       </div>

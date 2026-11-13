@@ -78,7 +78,7 @@ const page: LegacyPage = {
       "src": "/legacy/js/finsweetcomponentsconfig-1.0.103.js"
     },
     {
-      "src": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6297c98631a984c162542adb"
+      "src": "/legacy/js/jquery-3.5.1.min.js"
     },
     {
       "src": "/legacy/js/webflow.schunk.36b8fb49256177c8.js"

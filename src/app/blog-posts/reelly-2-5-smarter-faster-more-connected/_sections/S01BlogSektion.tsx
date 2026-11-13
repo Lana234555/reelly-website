@@ -28,7 +28,7 @@ export default function S01BlogSektion() {
               </p>
             </div>
           </div>
-          <img src="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.png" loading="lazy" id="w-node-b256a4d2-9b0f-df5e-ac3e-4c54db29b678-54a61e8f" alt="" sizes="(max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-800.png 800w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-1080.png 1080w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.png 1524w" className="blog-img" />
+          <img src="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.webp" loading="lazy" id="w-node-b256a4d2-9b0f-df5e-ac3e-4c54db29b678-54a61e8f" alt="" sizes="(max-width: 767px) 48vw, (max-width: 991px) 356px, 462px" srcSet="/cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-500.png 500w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-800.webp 800w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500-p-1080.webp 1080w, /cdn/62a47d8c21acef8236283091/699fbd42bea832bea78ae276_Rectangle-144500.webp 1524w" className="blog-img" />
         </div>
       </div>
     </div>

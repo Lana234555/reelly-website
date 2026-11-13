@@ -38,7 +38,7 @@ export default function S01ForInvestSection() {
               </div>
             </div>
             <div id="w-node-_6a9acec5-0db5-8cca-1063-9da4a29717f2-c15b89cc" className="invest_block">
-              <img src="/cdn/6297c98631a984c162542adb/636a694751b6bd110417689c_Group-1559.png" loading="lazy" width="237" id="w-node-_083c521f-1b46-3dc3-ba71-3c95927100ee-c15b89cc" alt="" className="image_invest" />
+              <img src="/cdn/6297c98631a984c162542adb/636a694751b6bd110417689c_Group-1559.webp" loading="lazy" width="237" id="w-node-_083c521f-1b46-3dc3-ba71-3c95927100ee-c15b89cc" alt="" className="image_invest" />
               <div id="w-node-_6a9acec5-0db5-8cca-1063-9da4a29717f4-c15b89cc" className="text_invest">
                 Unit Economics
               </div>
@@ -50,7 +50,7 @@ export default function S01ForInvestSection() {
               </div>
             </div>
             <div id="w-node-_21a7cb68-6011-af8d-de2e-464ff72bc4e0-c15b89cc" className="invest_block">
-              <img src="/cdn/6297c98631a984c162542adb/636a79a3a7ac130d7ea1643b_Group-1564.png" loading="lazy" width="237" alt="" className="image_invest" />
+              <img src="/cdn/6297c98631a984c162542adb/636a79a3a7ac130d7ea1643b_Group-1564.webp" loading="lazy" width="237" alt="" className="image_invest" />
               <div id="w-node-_21a7cb68-6011-af8d-de2e-464ff72bc4e2-c15b89cc" className="text_invest">
                 Interview with CEO
               </div>

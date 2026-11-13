@@ -1,7 +1,7 @@
 export default function S01CareersSectionPart02Part07Part02Part12() {
   return (
     <div id="w-node-af2d76ab-9446-f310-8fc6-5b3a0c5dda2e-7d423b64" className="leadership-card">
-      <img src="/cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1.png" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" srcSet="/cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-500.png 500w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-800.png 800w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-1080.png 1080w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1.png 1440w" alt="" className="leadership-img borders" />
+      <img src="/cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1.webp" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" srcSet="/cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-500.png 500w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-800.webp 800w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1-p-1080.webp 1080w, /cdn/6297c98631a984c162542adb/698c87dffe5d21e67f0132f2_photo_2026-02-11_14-36-57-1.webp 1440w" alt="" className="leadership-img borders" />
       <div className="leadership-info">
         <h3 className="leadership-name">
           Kainat
