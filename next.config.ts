@@ -1,9 +1,6 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
   turbopack: {
     rules: {
       "*.css": {
@@ -11,6 +8,13 @@ const nextConfig: NextConfig = {
         as: "*.css",
       },
     },
+  },
+  // Keep old Webflow URLs working (SEO).
+  async redirects() {
+    return [
+      { source: "/colsulting", destination: "/consulting", permanent: true },
+      { source: "/old-home-4", destination: "/", permanent: true },
+    ];
   },
 };
 
