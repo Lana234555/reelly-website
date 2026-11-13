@@ -18,7 +18,7 @@ export default function S01AgencyBody2Part07() {
                   Your API Key
                 </div>
                 <div className="w-form">
-                  <form id="email-form" name="email-form" data-name="Email Form" method="get" data-wf-page-id="67b97ab852e84a6bb4aa8abf" data-wf-element-id="d82cdd2e-1f51-b9c5-7217-18fb72f92543" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                  <form id="email-form" name="email-form" data-name="Email Form" method="get" data-wf-page-id="67b97ab852e84a6bb4aa8abf" data-wf-element-id="d82cdd2e-1f51-b9c5-7217-18fb72f92543">
                     <div className="api-key-input-block">
                       <div className="api-key-text">
                         Header

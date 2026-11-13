@@ -3,7 +3,7 @@ export default function S02FlexStackCenter2() {
     <div className="flex-stack-center-2">
       <div className="form-wrapper-3">
         <div className="w-form">
-          <form method="get" data-ms-form="signup" name="wf-form-Sign-up" data-name="Sign up" id="wf-form-Sign-up" className="form-container" data-wf-page-id="62fa2f18e0ceed49daa61e9b" data-wf-element-id="ad84a132-a68e-0da4-3544-1a0e28ae2f34" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+          <form method="get" data-ms-form="signup" name="wf-form-Sign-up" data-name="Sign up" id="wf-form-Sign-up" className="form-container" data-wf-page-id="62fa2f18e0ceed49daa61e9b" data-wf-element-id="ad84a132-a68e-0da4-3544-1a0e28ae2f34">
             <h1 className="form-header">
               Sign up
             </h1>

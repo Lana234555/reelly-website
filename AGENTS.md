@@ -25,3 +25,8 @@ Migration rules
 - When a section is rebuilt as a clean React component, remove the scripts it no longer needs from that page's `scripts` list.
 - Use plain `<a>` links between legacy pages (the Webflow runtime needs a full page load).
 - The product app (sign in/up) is a separate site: soft.reelly.io.
+
+Forms
+- Webflow forms are intercepted by `src/lib/formBridge.ts` and posted to `src/app/api/forms/route.ts`, which forwards them to Zapier ("Webhooks by Zapier → Catch Hook").
+- Env vars: `ZAPIER_WEBHOOK_URL` (default) and optional `ZAPIER_WEBHOOK_<FORM_NAME>` per form (form `data-name`, upper case, non-letters → `_`, e.g. `ZAPIER_WEBHOOK_CONTACT_FORM`).
+- Memberstack forms (`data-ms-form`) are not touched.

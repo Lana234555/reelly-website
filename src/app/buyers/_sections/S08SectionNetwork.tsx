@@ -121,7 +121,7 @@ export default function S08SectionNetwork() {
                 Get access to features first after opening the beta version of the platform
               </p>
               <div className="w-form">
-                <form id="registration-form" name="wf-form-registration-form" data-name="registration-form" redirect="https://www.reelly.io/thank-you-page-beta" data-redirect="https://www.reelly.io/thank-you-page-beta" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="be7d10a0-e414-61b7-2707-597369d70c67" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                <form id="registration-form" name="wf-form-registration-form" data-name="registration-form" redirect="https://www.reelly.io/thank-you-page-beta" data-redirect="https://www.reelly.io/thank-you-page-beta" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="be7d10a0-e414-61b7-2707-597369d70c67">
                   <div className="select-field-form select-color">
                     <select id="Role" name="Role" data-name="Role" required className="select-field- w-node-_44515f20-d4a2-37ee-b432-958fe2f793aa-c0a61e78 w-select">
                       <option value="">

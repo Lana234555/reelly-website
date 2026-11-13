@@ -444,7 +444,7 @@ export default function S01DivPart04Part03() {
           </div>
           <div className="individual-form-block">
             <div id="Payment-form" className="w-form">
-              <form id="wf-form-Individual-form" name="wf-form-Individual-form" data-name="Individual form" method="get" className="form-21" data-wf-page-id="6836eff79f527f736579766b" data-wf-element-id="33ad181b-d6cf-d73d-16fe-b54c874b33ff" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+              <form id="wf-form-Individual-form" name="wf-form-Individual-form" data-name="Individual form" method="get" className="form-21" data-wf-page-id="6836eff79f527f736579766b" data-wf-element-id="33ad181b-d6cf-d73d-16fe-b54c874b33ff">
                 <label htmlFor="Plan-3" className="field-label-6 _1">
                   Contact us
                 </label>

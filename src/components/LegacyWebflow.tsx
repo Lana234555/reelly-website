@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import { installFormBridge } from "@/lib/formBridge";
 
 // Runs the original Webflow runtime (interactions, sliders, dropdowns, forms),
 // plus the custom code and integrations (GTM, Mixpanel, Wized, Finsweet...) that the
@@ -72,6 +73,7 @@ export default function LegacyWebflow({ wfPage, bodyClass, styles = [], scripts 
       v.muted = true;
       v.play().catch(() => {});
     });
+    installFormBridge();
     patchReadyEvents();
     (async () => {
       for (const s of scripts) await load(s);

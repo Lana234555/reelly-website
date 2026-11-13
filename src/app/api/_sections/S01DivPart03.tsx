@@ -254,7 +254,7 @@ export default function S01DivPart03() {
                       Your API Key
                     </div>
                     <div className="w-form">
-                      <form id="email-form" name="email-form" data-name="Email Form" method="get" data-wf-page-id="6836eff79f527f736579766b" data-wf-element-id="1161829e-5d1b-3860-6f7f-45f5b58ac661" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                      <form id="email-form" name="email-form" data-name="Email Form" method="get" data-wf-page-id="6836eff79f527f736579766b" data-wf-element-id="1161829e-5d1b-3860-6f7f-45f5b58ac661">
                         <div className="api-key-input-block">
                           <div className="api-key-text">
                             Header

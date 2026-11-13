@@ -81,7 +81,7 @@ export default function S03RegistrationPopup() {
                     Get access to features first after opening the beta version of the platform
                   </p>
                   <div className="w-form">
-                    <form id="registration-popup-form" name="wf-form-registration-popup-form" data-name="registration-popup-form" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="d95f5aea-5ed8-1ee4-8dbe-92a66ccb7554" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                    <form id="registration-popup-form" name="wf-form-registration-popup-form" data-name="registration-popup-form" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="d95f5aea-5ed8-1ee4-8dbe-92a66ccb7554">
                       <div className="select-field-form select-color">
                         <select id="Property-Type-2" name="Property-Type" data-name="Property Type" className="select-field- w-node-cdd56601-1dd0-2ff3-f8ef-3a5213dcec45-c0a61e78 w-select">
                           <option value="">

@@ -17,7 +17,7 @@ export default function S01CopyMe() {
         <div className="flex-stack-center-2">
           <div className="form-wrapper-3">
             <div className="w-form">
-              <form method="get" data-ms-form="login" name="wf-form-login" data-name="login" id="wf-form-login" className="form-container" data-wf-page-id="62fa2f18e0ceed63eba61e97" data-wf-element-id="df9eb063-2576-3ad7-177b-22b5877040db" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+              <form method="get" data-ms-form="login" name="wf-form-login" data-name="login" id="wf-form-login" className="form-container" data-wf-page-id="62fa2f18e0ceed63eba61e97" data-wf-element-id="df9eb063-2576-3ad7-177b-22b5877040db">
                 <h1 className="form-header">
                   Log in
                 </h1>

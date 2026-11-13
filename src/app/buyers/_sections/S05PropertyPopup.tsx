@@ -23,7 +23,7 @@ export default function S05PropertyPopup() {
                   </p>
                 </div>
                 <div className="form-block-2 object w-form">
-                  <form id="wf-form-property-form" name="wf-form-property-form" data-name="property-form" redirect="https://www.reelly.io/thank-you-page-assistant" data-redirect="https://www.reelly.io/thank-you-page-assistant" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="75387784-064e-ebe4-675d-a4dea1564697" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                  <form id="wf-form-property-form" name="wf-form-property-form" data-name="property-form" redirect="https://www.reelly.io/thank-you-page-assistant" data-redirect="https://www.reelly.io/thank-you-page-assistant" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="75387784-064e-ebe4-675d-a4dea1564697">
                     <div className="block-text-1">
                       <div className="text-field-form">
                         <label htmlFor="Phone-5" className="field-label">

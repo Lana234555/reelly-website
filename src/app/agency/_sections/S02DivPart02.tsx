@@ -605,7 +605,7 @@ export default function S02DivPart02() {
           </div>
           <div className="individual-form-block">
             <div id="Payment-form" className="w-form">
-              <form id="wf-form-Individual-form-Reelly.ai" name="wf-form-Individual-form-Reelly.ai" data-name="Individual form (Reelly ai)" method="get" className="form-20" data-wf-page-id="67b97ab852e84a6bb4aa8abf" data-wf-element-id="018b0998-15c4-d241-63b1-d3d97290ae4a" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+              <form id="wf-form-Individual-form-Reelly.ai" name="wf-form-Individual-form-Reelly.ai" data-name="Individual form (Reelly ai)" method="get" className="form-20" data-wf-page-id="67b97ab852e84a6bb4aa8abf" data-wf-element-id="018b0998-15c4-d241-63b1-d3d97290ae4a">
                 <label htmlFor="Plan-3" className="field-label-5 _1">
                   Contact us
                 </label>

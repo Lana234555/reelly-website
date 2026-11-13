@@ -80,7 +80,7 @@ export default function S01GetInTouchSection() {
           </div>
           <div id="w-node-_11301079-1e64-5f56-b126-e041ea968128-d8a42116" className="contact-card-container _1">
             <div className="contact-form-block w-form">
-              <form id="wf-form-Contact-form" name="wf-form-Contact-form" data-name="Contact form" method="get" className="form-5" data-wf-page-id="664eee285ce74a5cd8a42116" data-wf-element-id="747753fe-9158-793b-8f99-5d5d7430bb14" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+              <form id="wf-form-Contact-form" name="wf-form-Contact-form" data-name="Contact form" method="get" className="form-5" data-wf-page-id="664eee285ce74a5cd8a42116" data-wf-element-id="747753fe-9158-793b-8f99-5d5d7430bb14">
                 <div className="contact-form">
                   <div className="contact-details-block">
                     <label htmlFor="Company-name" className="contact-details">

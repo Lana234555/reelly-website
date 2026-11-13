@@ -20,7 +20,7 @@ export default function S04AssistantPopup() {
                     We will select for you an agent who has the maximum competence in your request for the purchase of real estate.
                   </p>
                   <div className="form-block-2 w-form">
-                    <form id="assistant-form" name="wf-form-assistant-form" data-name="assistant-form" redirect="https://www.reelly.io/thank-you-page-assistant" data-redirect="https://www.reelly.io/thank-you-page-assistant" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="40a5b0f1-a5ae-c9ef-9549-8bacfadde523" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+                    <form id="assistant-form" name="wf-form-assistant-form" data-name="assistant-form" redirect="https://www.reelly.io/thank-you-page-assistant" data-redirect="https://www.reelly.io/thank-you-page-assistant" method="get" className="form" data-wf-page-id="62fa2f18e0ceed43c0a61e78" data-wf-element-id="40a5b0f1-a5ae-c9ef-9549-8bacfadde523">
                       <div className="block-text-1">
                         <div className="text-field-form">
                           <label htmlFor="Phone" className="field-label">

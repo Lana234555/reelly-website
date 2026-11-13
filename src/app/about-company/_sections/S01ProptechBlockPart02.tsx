@@ -15,7 +15,7 @@ export default function S01ProptechBlockPart02() {
           </div>
         </a>
         <div className="offer-event-form-2 _1-month-free-block w-form">
-          <form id="wf-form-Form-Investor" name="wf-form-Form-Investor" data-name="Form Investor" redirect="https://soft.reelly.io/proptech-community-thank-you-page" data-redirect="https://soft.reelly.io/proptech-community-thank-you-page" method="get" className="connect-the-agency" data-wf-page-id="676e6d8551d226ebea2d2b4b" data-wf-element-id="3d5699a7-3185-d3b6-474b-7c3af091fca4" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e">
+          <form id="wf-form-Form-Investor" name="wf-form-Form-Investor" data-name="Form Investor" redirect="https://soft.reelly.io/proptech-community-thank-you-page" data-redirect="https://soft.reelly.io/proptech-community-thank-you-page" method="get" className="connect-the-agency" data-wf-page-id="676e6d8551d226ebea2d2b4b" data-wf-element-id="3d5699a7-3185-d3b6-474b-7c3af091fca4">
             <input className="input-3 book w-input" maxLength={256} name="Full-name-2" data-name="Full Name 2" placeholder="Full name" type="text" id="Full-name-2" required />
             <input className="input-3 book w-input" maxLength={256} name="Email-2" data-name="Email 2" placeholder="Your email" type="email" id="Email-2" required />
             <input className="input-3 book w-input" maxLength={256} name="Your-phone-2" data-name="Your Phone 2" placeholder="Your phone" type="tel" id="Your-phone-2" required />
