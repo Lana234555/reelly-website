@@ -12,7 +12,18 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Original Webflow runtime and custom code
+    "public/**",
   ]),
+  {
+    // Markup migrated 1:1 from Webflow: plain <img> and <a> are intentional.
+    files: ["src/app/**/_sections/**", "src/components/webflow/**"],
+    rules: {
+      "@next/next/no-img-element": "off",
+      "@next/next/no-html-link-for-pages": "off",
+      "react/no-unescaped-entities": "off",
+    },
+  },
 ]);
 
 export default eslintConfig;
